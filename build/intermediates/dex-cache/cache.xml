@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_496c9fcb39bbb2fa9df798a582c6afebbab63f04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f6452d0dce9d9c9336c15954e852fc1ccc092f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_c549fd6be726f7e1b9378c8685856e68777a617c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_d7425f45cedbebb4240ec4079241d37389896169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5d74b569b2bc3e1dfa7b25b4113c73e1f0ef5050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d0e5b5ba442d27cb9e59be91b1bf7b2741a1b0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eed702df69b9dc0c495f6e2dd116b24e19f5edbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_6efa7d2d519f4ed0143a963447474bbcc6342a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.jjoe64-graphview-4.2.1_6ef3ca23a29c5b647ed53fe73b89b9be7091127e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6961a7ab4ce19623371fa2b0bd7e313fd2c10af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4acf3a4d692826067f294aa504429f591c8c64c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6481bbc8c7b8714043ec05cb42de32a85aa74b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_b9e2430193dedf3b52422feb7e6546962fefee34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_caa39e13222f395126e1ccb0a96ade313183e3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_fd74499d1cce67380a3aca6cce94208f31810aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/deepak/AndroidStudioProjects/SaveTIme/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_96d0f11673e251ae08fb6559d884a1f0c788ce9e.jar" />
+    </item>
+
+</items>
