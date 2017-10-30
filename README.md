@@ -3,7 +3,7 @@
 Intro:
 Auto Volume is an app that senses the surrounding sound intensity and changes the phone's ringing, calling and media volume according to it. 
 
-# About App Features: 
+# About App Features : 
 
 1.It tunes the ringing, calling and media volume according to the surrounding sound intensity.
 
